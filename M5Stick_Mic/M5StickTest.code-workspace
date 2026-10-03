@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../M5StickTest"
+		},
+		{
+			"name": "M5StickUpdated",
+			"path": "../M5StickUpdated"
+		},
+		{
+			"name": "M5Stick_Mic",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
